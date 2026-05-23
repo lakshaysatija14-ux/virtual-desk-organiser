@@ -2,7 +2,7 @@
 Smart desk organiser using ESP32-S3 and e-paper display
 Virtual Desk Organiser 🚀
 
-AI-powered smart desk organiser built using an ESP32-S3 and e-paper display to create a distraction-free, low-power productivity companion. The system displays useful daily information such as weather, calendar events, motivational quotes, alarms, and tasks through a clean web dashboard and energy-efficient e-paper interface.
+Smart desk organiser built using an ESP32-S3 and e-paper display to create a distraction-free, low-power productivity companion. The system displays useful daily information such as weather, calendar events, motivational quotes, alarms, and tasks through a clean web dashboard and energy-efficient e-paper interface.
 
 ✨ Features
 🌤️ Real-time weather updates
