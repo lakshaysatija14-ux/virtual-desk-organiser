@@ -102,37 +102,15 @@ The project includes a responsive web dashboard for:
 
 ---
 
-## 📂 Project Structure
-
-```bash
-Virtual-Desk-Organiser/
-│
-├── frontend/
-├── backend/
-├── firmware/
-├── hardware/
-├── images/
-├── docs/
-└── README.md
-```
-
----
-
 ## 🔧 Installation & Setup
 
-### 1️⃣ Clone Repository
-
-```bash
-git clone https://github.com/your-username/Virtual-Desk-Organiser.git
-```
-
-### 2️⃣ Open Firmware
+### 1. Open Firmware
 
 - Open Arduino IDE
 - Install ESP32 board package
 - Select ESP32-S3 board
 
-### 3️⃣ Install Required Libraries
+### 2. Install Required Libraries
 
 ```bash
 WiFi.h
@@ -141,7 +119,7 @@ GxEPD2.h
 ArduinoJson.h
 ```
 
-### 4️⃣ Upload Code
+### 3. Upload Code
 
 - Connect ESP32-S3
 - Select correct COM port
@@ -159,13 +137,11 @@ ArduinoJson.h
 
 ## 📸 Screenshots
 
-Add your project screenshots here.
 
-```bash
-/images/dashboard.png
-/images/hardware.jpg
-/images/display.jpg
-```
+---
+## 📸 Logo of project
+
+<img width="957" height="1047" alt="image" src="https://github.com/user-attachments/assets/28dc8eb3-61ec-4e49-8a3d-4ee9a0612d5d" />
 
 ---
 
