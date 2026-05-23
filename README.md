@@ -1,4 +1,4 @@
-# virtual-desk-organiser
+# Virtual-Desk-Organiser
 Smart desk organiser using ESP32-S3 and e-paper display
 Virtual Desk Organiser 🚀
 
